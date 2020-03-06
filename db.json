@@ -1,0 +1,34 @@
+{
+  "productos": [
+    {
+      "id": 2,
+      "nombre": "Jugo de Naranja",
+      "precio": "300"
+    },
+    {
+      "nombre": "Jugo de Naranja",
+      "precio": "600",
+      "id": 3
+    },
+    {
+      "nombre": "MERN 2",
+      "precio": 200,
+      "id": 4
+    },
+    {
+      "nombre": "Pablo",
+      "precio": 125,
+      "id": 5
+    },
+    {
+      "nombre": "Pablo",
+      "precio": 1522,
+      "id": 6
+    },
+    {
+      "nombre": "MERN 2",
+      "precio": 25,
+      "id": 7
+    }
+  ]
+}
